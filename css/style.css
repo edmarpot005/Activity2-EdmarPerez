@@ -14,3 +14,11 @@ body{
     height: 97vh;
     text-align: center;
 }
+
+#landing h1{
+    font-size: 60px;
+    color: white;
+    position: relative;
+    text-shadow: 2px 2px 1px black;
+    padding-top: 407px;
+}
