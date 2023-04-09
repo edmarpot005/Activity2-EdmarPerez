@@ -48,6 +48,7 @@ div{
     align-items: center;
     margin-right: 12px;
     box-shadow: 0px 2px 3px rgb(210, 210, 210);
+    
 }
 
 div:nth-child(4){
@@ -83,14 +84,56 @@ div p{
     text-align: start;
     font-weight: 500;
     padding: 6px;
+    margin-bottom: 20px;
 }
 
 a{
     color: grey;
     margin-left: 35px;
     text-decoration: none;
+  
 }
 
 a:hover{
   color: pink;
+} 
+
+#services{
+    background-color: rgb(223, 223, 223);
+    margin-top: 150px;
+    height: 475px;
+}
+#services h2{
+    padding-top: 150px;
+    font-size: 46px;
+    text-align: center;
+}
+ul{
+    margin-top: 40px;
+    text-align: center;
+}
+
+li:hover{
+    box-shadow: 0px 1px 15px rgb(132, 132, 132);
+}
+
+li:nth-child(1):hover{
+    box-shadow: 0px 1px 15px rgb(150, 149, 149);
+} 
+
+li{
+    font-size: 19px;
+    background-color: white;
+    width: 180px;
+    height: 30px;
+    padding: 35px;
+    padding-right: 45px;
+    display: inline-block;
+}
+
+li:nth-child(1){
+  font-size: 20px;
+  width: 180px;
+  height: 30px;
+  padding: 35px;background-color: orangered;
 }    
