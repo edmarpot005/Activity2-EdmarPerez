@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#landing{
+    background-image:linear-gradient(rgba(29,25,25,0.5),rgba(208,204,205,0.5)), url(../img/landing-img.jpg); 
+    background-size: cover;
+    background-position: center;
+    height: 97vh;
+    text-align: center;
+}
