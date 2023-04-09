@@ -100,3 +100,8 @@ a:hover{
     margin-top: 150px;
     height: 475px;
 }
+#services h2{
+    padding-top: 150px;
+    font-size: 46px;
+    text-align: center;
+}
