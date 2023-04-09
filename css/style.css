@@ -29,3 +29,12 @@ body{
     color: white;
     text-shadow: 2px 2px 2px black;
 }
+#blog{
+    margin-left: 140px;
+}
+
+img{
+    align-items: center;
+    height: 230px;
+    width: 365px;
+}
