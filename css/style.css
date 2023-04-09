@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#landing{
+    background-image:linear-gradient(rgba(29,25,25,0.5),rgba(208,204,205,0.5)), url(../img/landing-img.jpg); 
+    background-size: cover;
+    background-position: center;
+    height: 97vh;
+    text-align: center;
+}
+
+#landing h1{
+    font-size: 60px;
+    color: white;
+    position: relative;
+    text-shadow: 2px 2px 1px black;
+    padding-top: 400px;
+}
+
+#landing p{
+    position: relative;
+    font-size: 21px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
