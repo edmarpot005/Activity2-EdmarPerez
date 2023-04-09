@@ -20,5 +20,12 @@ body{
     color: white;
     position: relative;
     text-shadow: 2px 2px 1px black;
-    padding-top: 407px;
+    padding-top: 400px;
+}
+
+#landing p{
+    position: relative;
+    font-size: 21px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
 }
