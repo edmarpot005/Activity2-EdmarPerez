@@ -93,4 +93,10 @@ a{
 
 a:hover{
   color: pink;
-}    
+} 
+
+#services{
+    background-color: rgb(223, 223, 223);
+    margin-top: 150px;
+    height: 475px;
+}
